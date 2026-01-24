@@ -13,8 +13,8 @@ TELEGRAM_TOKEN = "8385597047AAFdgzjzXd52C2NSScipGzIpZyiOGrpSdyY"
 AITUNNEL_KEY = "sk-aitunnel-iP4KByEtsVaxNJoAP6O1jmPgoqAHGxiD"
 GENAPI_KEY = "sk-dd7I7EH6Gtg0zBTDManlSPCLoBN8rQPAatfF57GFebec8vgBHVbnx15JTKMa"  # УКАЖИ СВОЙ КЛЮЧ!
 
-AITUNNEL_URL = httpsapi.aitunnel.ruv1
-GENAPI_URL = httpsapi.gen-api.ruapiv1
+AITUNNEL_URL = "https://api.aitunnel.ru/v1"
+GENAPI_URL = "https://api.gen-api.ru/api/v1"
 
 ADMIN_ID = 6387718314
 FREE_LIMIT = 10
